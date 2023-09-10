@@ -1,0 +1,479 @@
+/* section-1 head */
+h1{
+color:#FDBE35;
+font-family: Qwigley;
+font-size: 80px;
+font-weight: 400;
+line-height: 96px;
+margin-top: 11px;
+margin-left: 169px;
+text-align: left;
+}
+/* .headcls{
+    width: 221px;
+    height: 96px;
+    margin-top: 11px;
+    margin-left: 169px
+} */
+/* p{
+font-family: Source Sans Pro;
+font-size: 18px;
+line-height: 18px;
+margin-top: 43px;
+margin-left: 454.5px;
+gap: 12px;
+text-align: center;
+} */
+.paracls{
+font-family: 'Source Sans 3', sans-serif;
+font-size: 18px;
+line-height: 18px;
+margin-top: 63px;
+margin-left: 454.5px;
+gap: 12px;
+text-align: center;
+}
+.btndesign{
+padding: 14px 24px 14px 24px;
+border-radius: 8px;
+margin-left: 20px;
+background-color: white;
+margin-top: 35px;
+border: 1px solid #FDBE35;
+gap: 10px;
+color: #FDBE35;
+font-family: 'Source Sans 3', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+/* .paracls{
+    width: Hug (530px);
+height: Hug (25px);
+margin-top: 43px;
+margin-left: 623.5px;
+gap: 12px
+} */
+/* .searchcls{
+    width: Hug (272px);
+height: Hug (46px);
+margin-top: 35px;
+margin-left: 841px;
+gap: 30px
+} */
+/* section -2 container */
+.boxpart{
+    background-color: #FDBE35;
+    padding-top: 100px;
+    /* padding-bottom: 100px; */
+
+}
+h2{
+font-family: Qwigley;
+color: white;
+font-size: 88px;
+font-weight: 400;
+line-height: 88px;
+letter-spacing: 0em;
+text-align: left;
+/* width: 519px
+height: 88px */
+}
+.headclass{
+width: 519px;
+height: 88px;
+margin-top: 243px;
+margin-left: 178px;
+}
+p{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 22px;
+}
+.paddingclass{
+    padding-bottom: 25px;
+    font-weight: 600;
+}
+.boxpart2{
+    padding-top: 100px;
+    
+}
+.imgcls{
+    width: 357px;
+    height: 301px;
+   margin-top: 828px;
+    margin-left: 240px;
+    border-radius: 10px;
+    
+}
+h6{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.4px;
+    padding-top: 20px;
+    text-align: left;
+}
+.btndesign2{
+font-family: 'Source Sans 3', sans-serif;
+font-size: 22px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+color: #F17228;
+background-color: #F1722833;
+border-radius: 8px;
+padding: 8px 16px 8px 16px;
+border: 1px solid #F1722833;
+}
+/* section-4 */
+.headclss{
+    padding-top: 80px;
+    color: #F17228;
+    padding-bottom: 50px;
+    font-family: 'Source Sans 3', sans-serif;
+font-size: 43px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+}
+.sectioncls2{
+    border: 2px solid white;
+    margin-left: 360px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+}
+.sectioncls3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sectioncls{
+    margin-left: 10px;
+}
+/* background: linear-gradient(92.84deg, #FB3C00 -47.72%, #FFB800 136.81%);
+ */
+ .icls{
+    color:white;
+    background-image:linear-gradient(92.84deg, #FB3C00 -47.72%, #FFB800 136.81%);
+    /* background-color: #FB3C00 #FFB800; */
+ }
+ .icls2{
+    padding-left: 30px;
+     padding-right: 40px;
+ }
+ h5{
+    font-size: 35px;
+    color: #FFD700;
+    line-height: 42px;
+ }
+ .vl {
+    border-left: 2px solid #CFCFCF;
+    height: 96px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .vl2{
+    border-left: 2px solid white;
+    height: 96px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+ /* 
+ <div class="">
+          <h4>How does it work</h4>
+        </div>
+        <div class="sectioncls2"> 
+        <div class=" row sectioncls3" style="display: flex;">
+          <div class="col-lg-4" style="display: flex;">
+            <div >
+              <i class="fa fa-percent fa-4x icls" aria-hidden="true" ></i></div>
+            <div><h5 >Daily Discount</h5></div>
+              
+            </div>
+          <div class="col-lg-4" style="display: flex;">
+              <div>
+                <i class="fa fa-map-marker fa-4x" aria-hidden="true" ></i></div>
+              <div><h5>Daily Discount</h5></div>
+                
+              </div>
+          <div class="col-lg-4" style="display: flex;">
+                <div>
+                  <i class="fa fa-percent fa-lg" aria-hidden="true" ></i></div>
+                <div><h5>Daily Discount</h5></div>
+                  
+              </div>      
+        </div>
+        </div>
+ */
+ /* section -5 searchfood */
+ .containercls{
+    
+    background-color: #F6F5EE;
+    padding-bottom: 100px;
+ }
+ .containerhead{
+    text-align: left;
+    font-size: 43px; 
+    font-weight: 600;
+    /* font-family: 'Source Sans 3', sans-serif; */
+    margin-left: 250px;
+    margin-top: 40px;
+    padding-top: 80px;
+    padding-left: 20px;
+    color: black;
+    /* text-align: center; */
+ }
+ h6{
+    font-family: Source Sans 3, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    /* padding-left: 60px; */
+ }
+ .foodheadcls{
+    padding-left: 60px;
+ }
+ .containercls2{
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 100px;
+    /* padding-bottom: 300px; */
+    /* background-color: #F6F5EE; */
+ }
+ /* 
+  <div class="">
+      <div>
+        <h4 class="containerhead">Search By Food</h4>
+      </div>
+    </div>
+    <div class="row containercls2">
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+      <div class="col-sm-2">
+        <img src="./dosa.png" alt="dosa">
+        <h6>dosa</h6>
+      </div>
+    </div> */
+    .containercls3{
+        padding-left: 200px;
+        padding-right: 300px;
+        padding-bottom: 100px;
+    }
+    /* section-5 */
+    .boxpart3{
+      margin-top: 100px;
+      /* margin-right: 150px;
+      margin-left: 100px;
+      border: 2px solid blue; */
+  }
+  
+ .paracls2{
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  width: 407px;
+height: 50px;
+  color: #616161B0;
+  padding-bottom: 50px;
+ }
+ .containerhead2{
+margin-top: 150px;
+/* margin-bottom: 150px; */
+padding-bottom: 50px;
+padding-left: 150px;
+ }
+ .headclss2{
+font-family: Source Sans Pro;
+font-size: 43px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+width: 407px;
+height: 96px;
+ }
+mark{
+  background-color: white;
+  color: #FDBE35;
+}
+/* .containerhead3{
+  padding-right: 10px;
+} */
+/* .containerhead4{
+  padding-left: 100px;
+} */
+.btndesign3{
+  width: Fixed (407px);
+height: Hug (60px);
+padding: 21px 48px 21px 48px;
+border-radius: 8px;
+gap: 10px;
+background-color: #FF8A00;
+color: white;
+font-family: Source Sans Pro;
+font-size: 18px;
+font-weight: 900;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: center;
+border: 1px solid #FF8A00;
+}
+/* popular items */
+.popularcls{
+font-family: Source Sans Pro;
+font-size: 43px;
+font-weight: 700;
+padding-top: 100px;
+padding-bottom:60px ;
+}
+.btndesign4{
+  width: Fixed (283.4px);
+height: Hug (60px);
+padding: 21px 48px 21px 48px;
+border-radius: 8px;
+gap: 10px;
+background-color:#F17228;
+color: white;
+box-shadow:5px 10px #FA63233D;
+font-size: 18px;
+}
+.containercls4{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 100px;
+}
+/* footer */
+footer{
+  background-color: black;
+  color: white;
+}
+.boxpart4{
+  padding-bottom: 200px;
+  margin-left: 250px;
+}
+.containerhead3{
+  padding-bottom: 100px;
+}
+/* footer */
+/* .vl3{
+padding-left: 220px;
+padding-right: 220px;
+width: 1480px;
+border-left: 2px solid #424242;
+
+} */
+hr.foothead{
+  padding-top: 50px;
+  border-top: 4px solid #424242;
+  width: 1480px;
+  align-self: center;
+}
+.footdiv{
+  padding-top: 60px;
+  padding-left:220px ;
+  /* padding-bottom: 60px; */
+}
+.footcontainer{
+  padding-left: 220px;
+}
+.parafoot{
+  width: 92px;
+height: 22px;
+}
+.parafoot2{
+opacity: 0.6;
+font-family: Source Sans Pro;
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0em;
+text-align: left;
+line-height: 21.6px;
+}
+.footcontainer2{
+  width: 92px;
+height: 26px;
+}
+.foothead{
+  font-family: Source Sans Pro;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.footcontainer3{
+  padding-top: 50px;
+  padding-right: 50px;
+}
+.iconcls{
+  gap: 26px;
+  opacity: 31%;
+  color: #F5F5F5;
+  line-height: 24px
+}
+.footbtn{
+  width: Fixed (334px);
+height: Fixed (60px);
+padding: 7px 0px 8px 16px;
+border-radius: 8px;
+gap: 10px;
+background-color: #424242;
+border: 1px solid #424242;
+}
+.footparacls{
+  width: 140px;
+height: 25px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #ADADAD;
+}
+.footbtndesign{
+  padding: 21px 24px 21px 24px;
+  background-color: #FFB800;
+  border-radius: 8px;
+  margin-left: 30px;
+}
+.footbtndesign2{
+background-color:#FFB800 ;
+text-align: center;
+color: white;
+border: 1px solid #FFB800;
+}
+  hr.foothead2{
+    margin-top: 60px;
+    border-top: 4px solid #424242;
+    /* padding-bottom: 10px; */
+    width: 1480px;
+    align-self: center;
+  }
+  .footcontainer4{
+    color: white;
+  }
+  .copyright{
+    margin-top: 50px;
+  }
